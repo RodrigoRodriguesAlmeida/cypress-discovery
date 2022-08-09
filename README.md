@@ -1,23 +1,27 @@
 # cypress-discovery
 
-Sample project for the discovery course of the QAcademy.
+Projeto Discovery curso QAcademy. 
 
 ## Pre-requirements
 
-It is required to have Node.js and npm installed to run this project.
+É necessário ter o Node.js e o npm instalados para executar este projeto.
 
-> I used versions `v16.13.2` and `8.3.2` of Node.js and npm, respectively. I suggest you use the same or later versions.
+> Node.js: "v16.13.1" npm: "8.1.2" Utilizando Cypress: "9.5.1"
 
 ## Installation
 
-Run `npm install` (or `npm i` for the short version) to install the dev dependencies.
+npm install cypress@9.5.1 --save-dev
+
+Execute "npm install" (ou `npm i` para a versão curta) para instalar as dependências dev.
 
 ## Tests
 
-You can run tests simulating a desktop or mobile viewport.
+Você pode executar testes simulando uma janela de visualização de desktop ou mobile.
 
 ## Desktop 
 
-Run `npx cypress open` (or `npm t` for the short version) to run the test in headless mode on a desktop viewport.
+Execute `npx cypress open` (ou `npm t` para a versão curta) para executar o teste no modo headless em uma janela de visualização da área de trabalho.
 
-This project was created with by [Rodrigo](https://www.linkedin.com/in/rodrigo-rodrigues-b88150131/).
+Este projeto foi criado para fins de praticar habilidades com a ferramenta Cypress.
+
+[Rodrigo Rodrigues](https://www.linkedin.com/in/rodrigo-rodrigues-b88150131/).
