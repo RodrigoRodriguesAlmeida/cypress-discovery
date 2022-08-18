@@ -1,0 +1,25 @@
+{
+  "name": "get-started",
+  "version": "1.0.0",
+  "description": "Primeiro exemplo com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/RodrigoRodriguesAlmeida/cypress-discovery.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Rodrigo Rodrigues",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RodrigoRodriguesAlmeida/cypress-discovery/issues"
+  },
+  "homepage": "https://github.com/RodrigoRodriguesAlmeida/cypress-discovery#readme",
+  "devDependencies": {
+    "cypress": "^9.5.1"
+  }
+}
